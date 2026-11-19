@@ -1,0 +1,12 @@
+Results summary – GSE68719, BA9 prefrontal cortex, PD vs Control
+Samples: Control = 44 , PD = 29
+Genes tested after filtering: 17518
+Significant (padj < 0.05, |log2FC| > 0.5): 2987 (up in PD: 1794; down in PD: 1193)
+Correlation of log2FC with authors' published results: 0.832
+Top 10 genes by adjusted p-value: SLC6A12, FXYD2, MSH2, ADAM33, SLC4A8, CARD9, FAM65C, ISYNA1, SCRN3, TRIP10
+Top KEGG terms (over-representation): Neuroactive ligand signaling; Neuroactive ligand-receptor interaction; Lipid and atherosclerosis; Osteoclast differentiation; Calcium signaling pathway
+Top GO terms: leukocyte proliferation; mononuclear cell proliferation; lymphocyte proliferation; myeloid leukocyte activation; regulation of immune effector process
+Top GSEA KEGG terms: Staphylococcus aureus infection; Legionellosis; Cytokine-cytokine receptor interaction; Viral protein interaction with cytokine and cytokine receptor; Nicotine addiction
+Metabolic-keyword KEGG terms found: 4 | GSEA terms: 6
+Limitations: no adjustment for age, post-mortem interval or RNA quality; bulk tissue, so
+cell-type composition can contribute to immune signals.
